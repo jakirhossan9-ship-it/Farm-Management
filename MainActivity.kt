@@ -1,4 +1,4 @@
-package com.mashallahagro.app
+package com.mashallahagro.Farmmanagement
 
 import android.Manifest
 import android.app.Activity
