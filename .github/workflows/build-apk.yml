@@ -126,11 +126,11 @@ jobs:
           }
 
           android {
-              namespace = "com.mashallahagro.app"
+              namespace = "com.mashallahagro.Farmmanagement"
               compileSdk = 35
 
               defaultConfig {
-                  applicationId = "com.mashallahagro.app"
+                  applicationId = "com.mashallahagro.Farmmanagement"
                   minSdk = 23
                   targetSdk = 35
                   versionCode = 2
